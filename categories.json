@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "Worker_Role": "Astrologer",
+    "icon": "assets/1.png"
+  },
+  {
+    "id": 2,
+    "Worker_Role": "Assistant",
+    "icon": "assets/2.png"
+  },
+  {
+    "id": 3,
+    "Worker_Role": "Developer",
+    "icon": "assets/3.png"
+  },
+  {
+    "id": 4,
+    "Worker_Role": "Designer",
+    "icon": "assets/4.png"
+  },
+  {
+    "id": 5,
+    "Worker_Role": "Manager",
+    "icon": "assets/5.png"
+  },
+  {
+    "id": 6,
+    "Worker_Role": "HR Specialist",
+    "icon": "assets/6.png"
+  },
+  {
+    "id": 7,
+    "Worker_Role": "QA Engineer",
+    "icon": "assets/7.png"
+  },
+  {
+    "id": 8,
+    "Worker_Role": "System Admin",
+    "icon": "assets/8.png"
+  },
+  {
+    "id": 9,
+    "Worker_Role": "Database Admin",
+    "icon": "assets/9.png"
+  },
+  {
+    "id": 10,
+    "Worker_Role": "Support Specialist",
+    "icon": "assets/10.png"
+  },
+  {
+    "id": 11,
+    "Worker_Role": "Network Engineer",
+    "icon": "assets/11.png"
+  },
+  {
+    "id": 12,
+    "Worker_Role": "Product Owner",
+    "icon": "assets/12.png"
+  }
+]
